@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.simulator.Main
+Class-Path: avaj-launcher.jar
+Created-By: jguyet
